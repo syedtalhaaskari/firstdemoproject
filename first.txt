@@ -3,3 +3,5 @@ hello world
 demo world
 
 edited from git editor
+
+Change for smart git
